@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/flight-booking-system/pom.xml" />
+        <option value="$PROJECT_DIR$/train-booking-system/pom.xml" />
       </list>
     </option>
   </component>
